@@ -1,4 +1,4 @@
 # Pour mémoire
 
 **PDF** : 
-- Initiation à la télédétection (Màj 15/10/26)
+- Initiation à la télédétection (Màj 18/10/26)
